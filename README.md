@@ -18,4 +18,3 @@
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&layout=compact&theme=tokyonight)
