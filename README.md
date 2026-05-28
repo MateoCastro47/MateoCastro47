@@ -13,10 +13,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateoCastro47&theme=github_dark" width="100%"/>
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateoCastro47&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MateoCastro47&theme=github_dark" width="48%"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=MateoCastro47&theme=github-dark&hide_border=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact" height="180"/>
 
