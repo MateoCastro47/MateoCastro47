@@ -13,8 +13,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateoCastro47&theme=github_dark" width="100%"/>
 <br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MateoCastro47.MateoCastro47" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact" height="180"/>
 
