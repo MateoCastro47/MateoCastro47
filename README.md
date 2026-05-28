@@ -9,5 +9,15 @@
 <div align="center">
   <img src="./banner1.png" width="800" alt="banner" />
 </div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=MateoCastro47&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MateoCastro47&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://raw.githubusercontent.com/MateoCastro47/stack-stats/main/stats.svg" alt="Language Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=radical" height="180"/>
+  
+</div>
+
 
