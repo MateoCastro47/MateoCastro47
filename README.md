@@ -21,3 +21,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MateoCastro47/MateoCastro47/output/github-contribution-grid-snake-dark.svg" />
 </div>
+<div align="center">
+  <img src="https://spotify-now-playing-svg-eight.vercel.app/api/index" width="460" height="60" />
+</div>
