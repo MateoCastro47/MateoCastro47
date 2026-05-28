@@ -21,3 +21,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact" height="180"/>
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MateoCastro47/MateoCastro47/output/github-contribution-grid-snake-dark.svg" />
+</div>
