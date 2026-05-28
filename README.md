@@ -11,11 +11,13 @@
 
 <p><em>"If I take one more commit, it'll be the furthest push from home I've ever been."</em></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MateoCastro47&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateoCastro47&theme=github_dark" width="100%"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateoCastro47&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MateoCastro47&theme=github_dark" width="48%"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=MateoCastro47&theme=github-dark&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&theme=github_dark&hide_border=true&layout=compact" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact" height="180"/>
 
 </div>
