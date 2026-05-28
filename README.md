@@ -4,32 +4,18 @@
 
 <div align="center">
 
-<img src="TU_BANNER_LOTR_AQUI" width="100%" />
+<img src="./banner2.png" width="100%" />
 
-<br><br>
-
-# ⚔️ NaXeMate
+# ⚔️ MateoCastro47
 
 > “If I take one more commit, it'll be the furthest push from home I've ever been.”
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=MateoCastro47&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
 
-![](https://github-readme-stats.vercel.app/api?username=MateoCastro47&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=MateoCastro47&theme=github_dark&hide_border=true" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=MateoCastro47&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&theme=github_dark&hide_border=true&layout=compact)
-
-<img src="https://raw.githubusercontent.com/MateoCastro47/stack-stats/main/stats.svg" alt="Language Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&theme=github_dark&hide_border=true&layout=compact" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact" height="180"/>
 
 </div>
-
-
-<div align="center">
-  <img src="./banner2.png" width="800" alt="banner" />
-</div>
-
-<div align="center">
-
