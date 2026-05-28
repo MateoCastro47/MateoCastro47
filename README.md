@@ -4,6 +4,9 @@
 
 <div align="center">
   <img src="./banner2.png" width="800" alt="banner" />
+</div>
+
+<div align="center">
   <img src="./banner1.png" width="800" alt="banner" />
 </div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
