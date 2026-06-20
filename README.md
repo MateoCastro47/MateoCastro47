@@ -6,6 +6,7 @@
 <div align="center">
 
 <img src="./banner2.png" width="100%" />
+<img src="./terminal.svg" width="100%" />
 
 # ⚔️ MateoCastro47
 
