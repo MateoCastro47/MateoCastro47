@@ -4,6 +4,11 @@
 
 <img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,ts,js,react,astro,vite,html,css,postgres,mysql,docker,git&theme=dark" />
 
+<div align="center">
+
+<img src="./banner2.png" width="100%" />
+<img src="./terminal.svg" width="100%" />
+
 # ⚔️ MateoCastro47
 
 <p><em>"If I take one more commit, it'll be the furthest push from home I've ever been."</em></p>
