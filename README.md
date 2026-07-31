@@ -28,7 +28,6 @@
 
 ## 📊 Estadísticas
 
-<img src="https://github-stats-extended.vercel.app/api?username=MateoCastro47&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MateoCastro47&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" width="30%" />
 
 <br/>
@@ -37,8 +36,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MateoCastro47&theme=darkhub&no-frame=true&row=1&column=6" width="100%" />
-
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MateoCastro47&theme=darkhub&no-frame=true&row=1&column=6" width="100%" />
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact&hide_border=true&bg_color=00000000" width="100%" height="180"/>
