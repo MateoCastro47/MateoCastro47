@@ -6,7 +6,7 @@
 
 <br/>
 
-![Java](https://skillicons.dev/icons?i=java,cs,dotnet,spring,ts,js,react,astro,vite,html,css,postgres,mysql,docker,git&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=java,cs,dotnet,spring,ts,js,react,astro,vite,html,css,postgres,mysql,docker,git&theme=dark)
 
 <br/>
 
@@ -24,7 +24,22 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact" width="100%" height="180"/>
+## 📊 Estadísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=MateoCastro47&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" width="30%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MateoCastro47&theme=github-dark-blue&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MateoCastro47&theme=darkhub&no-frame=true&row=1&column=6" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact&hide_border=true&bg_color=00000000" width="100%" height="180"/>
 
 <br/>
 
