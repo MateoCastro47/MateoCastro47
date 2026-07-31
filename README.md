@@ -24,10 +24,12 @@
 
 <br/><br/>
 
+<div align="center">
+
 ## 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=MateoCastro47&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoCastro47&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=MateoCastro47&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MateoCastro47&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" width="30%" />
 
 <br/>
 
@@ -45,7 +47,7 @@
 
 <img src="https://raw.githubusercontent.com/MateoCastro47/MateoCastro47/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<br/>
+</div>
 
 <img src="https://spotify-now-playing-svg-eight.vercel.app/api/index" width="460" height="60" />
 
