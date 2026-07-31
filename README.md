@@ -36,13 +36,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MateoCastro47&theme=darkhub&no-frame=true&row=1&column=6" width="100%" />
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoCastro47&theme=github-compact&hide_border=true&bg_color=00000000" width="100%" height="180"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/MateoCastro47/MateoCastro47/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
